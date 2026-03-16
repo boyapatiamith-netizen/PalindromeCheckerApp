@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class PalindromeChecker {
+ class PalindromeChecker {
 
     public static void main(String[] args) {
 

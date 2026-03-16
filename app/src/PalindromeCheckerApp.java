@@ -1,4 +1,4 @@
- class PalindromeCheck {
+ class PalindromeCheckApp {
     public static void main(String[] args) {
         String word = "madam";
         String reversed = "";
